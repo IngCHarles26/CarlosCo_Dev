@@ -12,7 +12,7 @@
 - Quiero participar en proyectos increibles y realizar un especial aporte.
 - Me gustan los retos y la lógica, estas van en el front o el back, asi que en las dos estaría increible participar.
 - Mi portafolio está en proceso ... [link](https://github.com/IngCHarles26)
-- Estoy abierto a oportunidades y demostrar el aporte que puedo dar, este es mi cv [my resume]([https://read.cv/0xabdulkhalid](https://docs.google.com/document/d/1wcJgMPdMroYbBMeBlWmplygIi6GiACAqDIpOnlzEuX4/edit))
+- Estoy abierto a oportunidades y demostrar el aporte que puedo dar, este es mi cv [my resume](https://docs.google.com/document/d/1wcJgMPdMroYbBMeBlWmplygIi6GiACAqDIpOnlzEuX4/edit)
 
 <br><br>
 
@@ -26,7 +26,8 @@
 <p align="center">
 
 - **Languages**:
-    
+    ![Static Badge](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
+
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Python-14354C?logo=python&labelColor=14354C)
 
