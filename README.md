@@ -27,7 +27,8 @@
 
 - **Languages**:
 
-  ![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
+![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
+![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178c6)
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Python-14354C?logo=python&labelColor=14354C)
