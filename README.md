@@ -26,7 +26,8 @@
 <p align="center">
 
 - **Languages**:
-    ![Static Badge](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
+
+  ![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Python-14354C?logo=python&labelColor=14354C)
