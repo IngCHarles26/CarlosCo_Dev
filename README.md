@@ -1,7 +1,6 @@
 
 <h1 align="center"><b>Hola, soy Carlos Condori Ll.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -9,11 +8,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Soy egresado de la carrera de Ingeniería Mecatrónica y ahora programador FULL STACK.
+- Quiero participar en proyectos increibles y realizar un especial aporte.
+- Me gustan los retos y la lógica, estas van en el front o el back, asi que en las dos estaría increible participar.
+- Mi portafolio está en proceso ... [link](https://github.com/IngCHarles26)
+- Estoy abierto a oportunidades y demostrar el aporte que puedo dar, este es mi cv [my resume]([https://read.cv/0xabdulkhalid](https://docs.google.com/document/d/1wcJgMPdMroYbBMeBlWmplygIi6GiACAqDIpOnlzEuX4/edit))
 
 <br><br>
 
@@ -28,9 +27,11 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Python-14354C?logo=python&labelColor=14354C)
+
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  
 
 <br>   
     
@@ -38,7 +39,6 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
@@ -64,19 +64,7 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-<br>
-
------
-
-<br>
+>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
