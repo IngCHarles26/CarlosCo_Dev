@@ -3,7 +3,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
 <br>
 
@@ -12,12 +11,12 @@
 
 <br><br><br><br>
 
-- Soy egresado de la carrera de Ingeniería Mecatrónica y ahora programador FULL STACK.
-- Quiero participar en proyectos increibles y realizar un especial aporte.
-- Me gustan los retos y la lógica, estas van en el front o el back, asi que en las dos estaría increible participar.
-- Mi portafolio está en proceso ... [link](https://github.com/IngCHarles26)
-- Estoy abierto a oportunidades y demostrar el aporte que puedo dar, este es mi [resume](https://docs.google.com/document/d/1wcJgMPdMroYbBMeBlWmplygIi6GiACAqDIpOnlzEuX4/edit)
-
+- I am a graduate of Mechatronic Engineering and now trainee developer.
+- I want to participate in amazing projects and make a singular contribution in them.
+- I like to solve logic problems [codewars](https://www.codewars.com/users/CarlosCo_Dev) and [codesignal](https://app.codesignal.com/profile/ingcharles26).
+- Take a look at my  [portfolio](https://portfolio-ecru-two-48.vercel.app/), I am open to recommendations.
+- I am open to new opportunities and demonstrate the contribution I can give to the project and the work team.
+- [resume](https://docs.google.com/document/d/19ANMRxSwI_qqS2ZHB_Nt2mtbKhPrPSihQ8pMjf2L0cs/edit)
 
 
 
